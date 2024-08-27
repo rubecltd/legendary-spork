@@ -1,4 +1,4 @@
-/* 
+/* Responsive
 Max width 767px */
 @media only screen and (max-width: 767px) {
   .ptb-100 {
@@ -941,7 +941,7 @@ Min width 992px to Max width 1199px */
     padding: 20px;
   }
   .nav-area .navbar-area .main-nav .navbar .navbar-brand::before {
-    top: -14.1px;
+    top: -4.1px;
     left: -470px;
   }
   .nav-area .navbar-area .main-nav .navbar .navbar-brand {
@@ -961,7 +961,7 @@ Min width 992px to Max width 1199px */
 
 @media only screen and (min-width: 1200px) and (max-width: 1299px) {
   .nav-area .navbar-area .main-nav .navbar .navbar-brand::before {
-    top: -14.9px;
+    top: -5.9px;
     height: 84.5px;
   }
 }
@@ -986,7 +986,7 @@ Max width 1700px */
 Only Mobile Menu Max width 991px */
 @media only screen and (max-width: 991px) {
   .mean-container .mean-bar {
-    background-color: #00DFA2;
+    background-color: #088395;
     height: 70px;
   }
   .mean-container a.meanmenu-reveal {
@@ -1015,10 +1015,10 @@ Only Mobile Menu Max width 991px */
     border-top: 1px solid #17222b;
   }
   .mobile-nav.mean-container .mean-nav ul li a:hover {
-    color: #00DFA2;
+    color: #088395;
   }
   .mobile-nav.mean-container .mean-nav ul li a.active {
-    color: #00DFA2;
+    color: #088395;
   }
   .nav-area .others-option {
     display: none;
