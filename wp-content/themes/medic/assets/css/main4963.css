@@ -331,7 +331,7 @@ textarea.form-control {
 }
 
 .medic-default-btn.active {
-  margin-left: 30px;
+  margin-left: 0px;
   color: #ffffff;
   background-color: #122738;
 }
