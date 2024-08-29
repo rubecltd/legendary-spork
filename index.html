@@ -111,8 +111,23 @@
       <meta name="generator" content="Redux 4.3.19" />
       <!-- DO NOT COPY THIS SNIPPET! 
          <!-- START PRELOADER AREA -->
-      <div class="preloader">
-         <div class="lds-ripple">
+         <div class="preloader">
+  <div class="loader">
+    <div class="plane">
+      <img src="https://zupimages.net/up/19/34/4820.gif" class="plane-img">
+    </div>
+    <div class="earth-wrapper">
+      <div class="earth"></div>
+    </div>  
+  </div>
+</div>
+
+<script>
+  window.addEventListener('load', function() {
+    document.querySelector('.preloader').style.display = 'none';
+  });
+</script>
+
             <div></div>
             <div></div>
          </div>
